@@ -2,4 +2,4 @@
 
 A new doctor app.
 
-## 📘 System Started
+## 🎨 System Started
